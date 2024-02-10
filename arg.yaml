@@ -1,0 +1,11 @@
+- type: arg
+  value: some
+- type: arg
+  value: arguments
+- key: --host
+  type: option
+  value: 127.0.0.1
+- key: -i
+  type: flag
+- key: --another-flag
+  type: flag
